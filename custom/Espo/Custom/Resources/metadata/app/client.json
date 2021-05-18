@@ -1,0 +1,10 @@
+{
+    "cssList": [
+        "__APPEND__",
+        "client/custom/css/novastream.css"
+    ],
+    "developerModeCssList": [
+        "__APPEND__",
+       "client/custom/css/novastream.css"
+    ]
+}
